@@ -18,7 +18,7 @@ The code simulates trajectories of a vehicle using a kinematic bicycle model. Tw
 ## Code Structure
 
 - `Kinematic_Bicycle_Model.py`: Contains the implementation of the kinematic bicycle model functions and plot some sample paths with varied parameters.
-- `README.md`: This file, providing an overview of the repository and instructions for usage.
+- `README.md`: This file, providing an overview of the whole Autonomous-Driving-Systems repository and instructions for usage.
 
 ## Usage
 
