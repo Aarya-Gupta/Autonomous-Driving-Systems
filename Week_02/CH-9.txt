@@ -1,0 +1,8 @@
+# estimation using mean squre error
+• Blind estimation of a random variable
+• Estimation of a random variable given an event
+• Estimation of a random variable given one other random variable
+• Linear estimation of a random variable given a random vector
+• Linear prediction of one component of a random vector given other components of
+the random vector
+
