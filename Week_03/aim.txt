@@ -1,0 +1,22 @@
+1. Forget about the notion of steering angle. Now, consider there is only one angle, heading angle; which will be
+changed at every time stamp to modify the direction of the vehicle. 
+
+The New system equations are :
+x(t) = x(t-Δt) + v * cos(θ(t)) * Δt
+y(t) = y(t-Δt) + v * sin(θ(t)) * Δt
+θ(t) = θ(t-Δt) + Δθ(t)
+
+Now, just for the first iteration/time stamp, we are assuming Δθ(t) to be a R.V. which is following a Gaussian (0, 1)
+distribution. On the basis of this change in θ, aim is to find the distribution of x(t) and y(t).
+
+Now, can I modify the distribution (which was used to extract the value of Δθ(t)), on the basis of the value of Δθ(t)
+extracted. This would be my revised distribution, which will be used to find the value of Δθ(t+Δt). Use this Δθ(t+Δt) 
+to find x(t+Δt) and y(t+Δt). Now, this series of updating the distribution has to be done for a large no. of observations,
+so that an approximate revised distribution of x, y, Δθ can be obtained.
+
+Now, if distribution of x, y, Δθ are some common distribution, then plot their other statistical charachters; like cdf, etc.
+
+2. A similar task as above is to be done for coin being tossed (simulating some aspects of ADS). Suppose that for the 1st 
+toss of coin, the observation is derived/taken from some common distribution say Uniform distribution. Now, once a value is
+derived from the distribution, then try to modify this distribution on the basis of the value derived. This task of updating 
+the distribution is to be done for a large no. of coin tosses in order to refine the distribution.

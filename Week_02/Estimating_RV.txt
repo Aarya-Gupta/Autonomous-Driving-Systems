@@ -1,3 +1,5 @@
+Notes made with reference from Roy Yates
+
 # estimation using mean squre error
 • Blind estimation of a random variable
 • Estimation of a random variable given an event
