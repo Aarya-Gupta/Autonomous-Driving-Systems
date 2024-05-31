@@ -14,9 +14,12 @@ extracted. This would be my revised distribution, which will be used to find the
 to find x(t+Δt) and y(t+Δt). Now, this series of updating the distribution has to be done for a large no. of observations,
 so that an approximate revised distribution of x, y, Δθ can be obtained.
 
-Now, if distribution of x, y, Δθ are some common distribution, then plot their other statistical charachters; like cdf, etc.
+Now, if distribution of x, y, Δθ are some common distribution, then plot their other statistical charachters; like cdf, 
+mean, variance, etc.
 
-2. A similar task as above is to be done for coin being tossed (simulating some aspects of ADS). Suppose that for the 1st 
-toss of coin, the observation is derived/taken from some common distribution say Uniform distribution. Now, once a value is
-derived from the distribution, then try to modify this distribution on the basis of the value derived. This task of updating 
-the distribution is to be done for a large no. of coin tosses in order to refine the distribution.
+
+2. A similar task as above is to be done for coin being tossed (theoretical analysius of this scenario will be used in 
+simulating some aspects of ADS). Suppose that for the 1st toss of coin, the observation is derived/taken from some 
+common distribution say Uniform distribution. Now, once a value is derived from the distribution, then try to modify 
+this distribution on the basis of the value derived. This task of updating the distribution is to be done for a large 
+no. of coin tosses in order to refine the distribution.
