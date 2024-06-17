@@ -1,0 +1,3 @@
+1. Compare the o/p  of KDE with bootstrapping, with a constant data set used as the initial change in heading angle.
+2. It's not necessary that same size of list is to be sampled again from the bootstrapping. Size of the list can be variable.
+In actual, we are just trying to test it; so the size of the newly sampled list can be variable.
