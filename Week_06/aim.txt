@@ -1,0 +1,15 @@
+Future Changes : 
+
+1. Dictionary banane ki need hi nahin thi. Agar ek list mein koi element already zyada frequency mein exist kar 
+raha hai, then its quite natural ki bootstrapped list mein uska representation zyada hoga hi, if the no. of samples 
+is maintained. Isliye, there's no need to make dictionary, har baar list se sampling karne par bhi same cheez hi hogi. 
+Dictionary mein bhi toh uss element ko zyada baar choose karte the, jiski frequency zyada hoti thi, idhar bhi toh 
+naturally zyada frequency waala element apne aap choose ho jaayega; as randomly selected index par uski presence hone 
+ki probability badh jaayegi.  
+
+2. Kya hamein har baar original list se hi samples choose karne chahiye?
+
+Actual aim for the week_06 :
+1. Make documentation of the work done till now in LaTex.
+2. Make timeline for the events occuring at each time step in the documentation. Write all assumptions and the initial
+conditions used to produce the model. 
