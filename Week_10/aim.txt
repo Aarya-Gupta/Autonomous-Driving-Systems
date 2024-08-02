@@ -1,0 +1,16 @@
+Aim : To find an appropriate confidence interval in which the Mean of the Actual underlying Unknown Distribution is 
+present; saying it to be true mean.
+
+In the meeting, we have discussed 5 different approaches to find the the confidence interval as described above.
+
+1. Standard Normal
+2. Student-t Distribution
+3. Bootstrap-t Distribution
+4. Percentile Method
+5. BCA Method
+
+I will be making simulations for 1, 2 and 3.
+
+General assumptions made while coding 1, 2, 3:
+1. 1000 Bootstrap samples will be made for the given sample of data.
+2. Considering mean to be the statistic of interest.
