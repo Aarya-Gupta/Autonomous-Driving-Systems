@@ -8,11 +8,11 @@ The repository is organized into week-wise folders, each containing the work don
 
 ### Week 1
 - **Work Done:** Developed the kinematic bicycle model from scratch.
-- **Folder:** [week1](./week1)
+- **Folder:** [week1](Week_01)
 
 ### Week 2
 - **Work Done:** Identified that the parameter of concern is the steering angle and modelled it accordingly.
-- **Folder:** [week2](./week2)
+- **Folder:** [week2](Week_02)
 
 ### Week 3
 - **Work Done:** 
@@ -27,23 +27,23 @@ The repository is organized into week-wise folders, each containing the work don
   - Assumed Δθ(t) follows a Gaussian (0, 1) and Uniform(-pi/3, +pi/3) distribution [as 2 different cases] for the first iteration.
   - Modified the distribution of Δθ(t) based on its extracted value for subsequent time steps to find x(t) and y(t) distributions.
   - Simulated the coin toss experiment using a similar approach.
-- **Folder:** [week3](./week3)
+- **Folder:** [week3](Week_03)
 
 ### Week 4
 - **Work Done:** Simulated Kernel Density Estimation (KDE) and compared the output with bootstrapping.
-- **Folder:** [week4](./week4)
+- **Folder:** [week4](Week_04)
 
 ### Week 5
 - **Work Done:**
   - Compared KDE output with bootstrapping using the same dataset for initial heading angle change.
   - It's not necessary that the list to be sampled is of the same size as the original one during bootstrapping. The size of the list can be variable. In actuality, we are just trying to test the behaviour of bootstrapping, so the size of the newly sampled list can be variable.
-- **Folder:** [week5](./week5)
+- **Folder:** [week5](./Week_05)
 
 ### Week 6
 - **Work Done:**
   - Documented the work done so far in LaTeX.
   - Created a timeline for events at each time step and listed all assumptions and initial conditions.
-- **Folder:** [week6](./week6)
+- **Folder:** [week6](./Week_06)
 
 ### Week 7
 - **Work Done:** Focused on reading book content related to Confidence Intervals. [Ch- 12]
