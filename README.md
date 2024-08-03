@@ -37,13 +37,13 @@ The repository is organized into week-wise folders, each containing the work don
 - **Work Done:**
   - Compared KDE output with bootstrapping using the same dataset for initial heading angle change.
   - It's not necessary that the list to be sampled is of the same size as the original one during bootstrapping. The size of the list can be variable. In actuality, we are just trying to test the behaviour of bootstrapping, so the size of the newly sampled list can be variable.
-- **Folder:** [week5](./Week_05)
+- **Folder:** [week5](Week_05)
 
 ### Week 6
 - **Work Done:**
   - Documented the work done so far in LaTeX.
   - Created a timeline for events at each time step and listed all assumptions and initial conditions.
-- **Folder:** [week6](./Week_06)
+- **Folder:** [week6](Week_06)
 
 ### Week 7
 - **Work Done:** Focused on reading book content related to Confidence Intervals. [Ch- 12]
@@ -66,7 +66,7 @@ The repository is organized into week-wise folders, each containing the work don
   - General assumptions while coding:
     1. 1000 bootstrapped samples of the given dataset are created.
     2. Considering mean to be the statistic of interest.
-- **Folder:** [week10](./week10)
+- **Folder:** [week10](Week_10)
 
 ## Guidance
 
@@ -86,3 +86,8 @@ To set up the project and produce results, follow these steps:
    python3 -m venv venv
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
    ```
+3. **Install the necessary requirements**
+4. **Run the Jupyter Notebooks**
+
+**## Contributor**
+@AaryaGupta
