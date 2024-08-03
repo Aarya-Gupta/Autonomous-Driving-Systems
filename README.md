@@ -89,5 +89,5 @@ To set up the project and produce results, follow these steps:
 3. **Install the necessary requirements**
 4. **Run the Jupyter Notebooks**
 
-**## Contributor**
-@AaryaGupta
+## Contributors
+- Aarya Gupta - aarya22006@iiitd.ac.in
