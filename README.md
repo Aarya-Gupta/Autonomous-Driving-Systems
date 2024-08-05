@@ -70,14 +70,14 @@ The repository is organized into week-wise folders, each containing the work don
 
 ## Guidance
 
-This project has been guided by the book "An Introduction to the Bootstrap" by B. Efron.
+This project has been guided by the book **"An Introduction to the Bootstrap"** by **B. Efron**. I would also like to extend my sincere gratitude to **Dr. Sanjit Kaul** for his invaluable assistance and guidance throughout the project.
 
 ## Installation
 
 To set up the project and produce results, follow these steps:
 
 1. **Clone the Repository:**
-   ```bash
+   ```bash  
    git clone https://github.com/Aarya-Gupta/Autonomous-Driving-Systems.git
    cd Autonomous-Driving-Systems
    ```
